@@ -7,3 +7,4 @@ __pycache__/
 
 celerybeat-schedule*
 .DS_Store
+service_account.json
