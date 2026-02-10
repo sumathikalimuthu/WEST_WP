@@ -3,3 +3,7 @@
 __pycache__/
 *.pyc
 *.log
+
+
+celerybeat-schedule*
+.DS_Store
