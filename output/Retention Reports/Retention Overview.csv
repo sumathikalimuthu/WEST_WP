@@ -1,0 +1,24 @@
+Table: Cohort - Active users
+cohort,cohortNthDay,activeUsers
+Retention_Cohort,0000,325
+Retention_Cohort,0001,2
+
+Table: Cohort - New users
+cohort,cohortNthDay,newUsers
+Retention_Cohort,0000,325
+
+Table: Cohort - Engaged sessions
+cohort,cohortNthDay,engagedSessions
+Retention_Cohort,0000,116
+Retention_Cohort,0001,2
+
+Table: Cohort - Average engagement time per user
+cohort,cohortNthDay,averageSessionDuration
+Retention_Cohort,0001,163.0096245
+Retention_Cohort,0000,119.8929956062323
+
+Table: Cohort - User engagement duration
+cohort,cohortNthDay,userEngagementDuration
+Retention_Cohort,0000,8243
+Retention_Cohort,0001,125
+

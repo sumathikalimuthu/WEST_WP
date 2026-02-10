@@ -1,0 +1,186 @@
+Table: Nth day - New users
+nthDay,newUsers
+0000,270
+0001,56
+
+Table: Nth day - Returning users
+nthDay,Returning users
+0000,156
+0001,13
+
+Table: Platform - Key events
+platform,eventCount
+web,3307
+
+Table: First user primary channel group - New users
+firstUserDefaultChannelGroup,newUsers
+Direct,159
+Unassigned,71
+Cross-network,44
+Organic Search,36
+Referral,10
+Organic Social,6
+
+Table: Audience name - Active users
+audienceName,activeUsers
+All Users,373
+Purchasers,6
+
+Table: City - Active users
+city,activeUsers
+Lanzhou,103
+,70
+Chennai,26
+Ashburn,6
+Tirunelveli,6
+Bengaluru,4
+London,4
+Coimbatore,3
+Moscow,3
+Mumbai,3
+Barcelona,2
+Delhi,2
+Frankfurt am Main,2
+Hangzhou,2
+Hollywood,2
+Jaipur,2
+Koto City,2
+Nishitokyo,2
+Rajkot,2
+Setagaya City,2
+Tiruchirappalli,2
+7334,1
+8851,1
+Achterveld,1
+Ahmedabad,1
+Ajman,1
+Amman,1
+Amsterdam,1
+Antwerp,1
+Arroyomolinos,1
+Asahikawa,1
+Auckland,1
+Bad Soden,1
+Bakersfield,1
+Banjarmasin,1
+Berlin,1
+Bogor Regency,1
+Brasilia,1
+Bristol,1
+Budapest,1
+Calamba,1
+Calp,1
+Cape Town,1
+Castelldefels,1
+Cesson-Sevigne,1
+Chandler,1
+Chisinau,1
+Clifton,1
+Coimbra,1
+Cologne,1
+Cumming,1
+Davie,1
+Dhaka,1
+Dortmund,1
+Dover,1
+Dublin,1
+Einbeck,1
+Emmendingen,1
+Euskirchen,1
+Faisalabad,1
+Fukuoka,1
+Gedera,1
+Gothenburg,1
+Hachioji,1
+Haifa,1
+Hayes,1
+Helsinki,1
+Hiroshima,1
+Hong Kong,1
+Hyderabad,1
+Isfahan,1
+Jakarta,1
+Jeddah,1
+Jiaxing,1
+Johannesburg,1
+Jos,1
+Kawasaki,1
+Kitakyushu,1
+Kobe,1
+Kochi,1
+Kosai,1
+Kyoto,1
+Lecco,1
+Leganes,1
+Lisbon,1
+Lorraine,1
+Los Gatos,1
+Lucknow,1
+Ludhiana,1
+Madrid,1
+Madurai,1
+Maebashi,1
+Makhachkala,1
+Mangaluru,1
+Marmaris,1
+Milan,1
+Mollet del Valles,1
+Montemorelos,1
+Montevideo,1
+Monza,1
+Nagaizumi,1
+Nagercoil,1
+Nakano City,1
+Nara,1
+New Cairo City,1
+Nivelles,1
+Norfolk,1
+Ohringen,1
+Olympia Fields,1
+Pallapatti,1
+Palm Coast,1
+Panaji,1
+Paris,1
+Perpignan,1
+Peterborough,1
+Piraeus,1
+Pontevedra,1
+Port Isabel,1
+Quezon City,1
+Quito,1
+Rotterdam,1
+Saint-Jerome,1
+Salta,1
+Santa Fe,1
+Santiago De Los Caballeros,1
+Scarborough,1
+Sendai,1
+Seoul,1
+Shenzhen,1
+South Bend,1
+Srinagar,1
+Takamatsu,1
+Takasaki,1
+Takatsuki,1
+The Dalles,1
+Tielt-Winge,1
+Toronto,1
+Ueda,1
+Umea,1
+Vijayawada,1
+Wallingford,1
+Warangal,1
+Washington,1
+Winchester,1
+Wolverton,1
+Yokohama,1
+Zaragoza,1
+
+Table: Lead Funnel Summary
+Metric,Value
+Total New Leads,0
+Total Qualified Leads,0
+Total Converted Leads,0
+Qualification Rate (%),0
+Conversion Rate (%),0
+

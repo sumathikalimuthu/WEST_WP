@@ -1,0 +1,30 @@
+# Google APIs
+google-api-python-client==2.93.0
+google-auth==2.22.0
+google-analytics-data==0.19.0
+
+# Data
+pandas==2.2.3
+requests==2.31.0
+
+# Backend
+fastapi==0.110.0
+uvicorn==0.27.1
+
+# Task Queue
+celery==5.3.6
+redis==5.0.1
+
+# Scheduler / ENV
+apscheduler==3.11.0
+python-dotenv==1.0.0
+
+# Database Dependencies
+sqlalchemy==2.0.23
+psycopg2-binary==2.9.9
+python-dotenv==1.0.0
+pandas==2.1.4
+requests==2.31.0
+google-auth==2.25.2
+google-api-python-client==2.110.0
+lxml==4.9.3

@@ -1,0 +1,43 @@
+Session source / medium,New users,Sessions,Engagement rate,Average engagement time per session,Bounce rate,Engaged sessions,Purchase revenue
+(direct) / (none),159,186,0.24731182795698925,94.6432035591398,0.75268817204301075,46,0
+(not set),54,103,0.26213592233009708,187.13383785436892,0.73786407766990292,27,238.2
+(data not available),45,60,0.75,347.4323773166667,0.25,45,0
+google / organic,29,61,0.639344262295082,405.21662260655739,0.36065573770491804,39,0
+rss / rss,7,8,0.25,13.07998725,0.75,2,0
+external_site / referral,3,3,0,1.1524196666666666,1,0,0
+bing / organic,2,2,1,426.6964465,0,2,0
+website / cta_banner,2,2,0.5,12.0423575,0.5,1,0
+wordpress / plugin,2,4,1,458.28499675,0,4,0
+wordpress / readme,2,2,0,0,1,0,0
+wordpress_org / readme,2,2,0,0,1,0,0
+yandex.ru / referral,2,3,1,30.345721666666666,0,3,0
+csv_importer_free_plugin / error_message,1,1,0,1.84824,1,0,0
+fr.wordpress.org / referral,1,1,1,273.994809,0,1,0
+gemini.google.com / referral,1,1,1,217.701921,0,1,0
+homebrasilia.com.br / referral,1,2,0.5,7.0600455,0.5,1,0
+identity.co.uk / referral,1,1,1,10.788028,0,1,0
+jingmu.xyz / referral,1,1,1,329.668193,0,1,0
+kyoto-be.ne.jp / referral,1,1,1,90.561651,0,1,0
+marketplace / mailchimp,1,1,0,0,1,0,0
+medium / post,1,1,0,0,1,0,0
+rss / (not set),1,1,0,0,1,0,0
+website / organic,1,3,0.66666666666666663,96.318479333333343,0.33333333333333331,2,0
+wordpress / (not set),1,1,0,0,1,0,0
+wp.mayer-motorgeraete.de / referral,1,1,1,119.747476,0,1,0
+wpdemo.net / post1442,1,1,0,0,1,0,0
+wpfloor / blog,1,2,0.5,10.6123515,0.5,1,0
+ya.ru / referral,1,1,1,692.508997,0,1,0
+yahoo / organic,1,3,0.33333333333333331,254.49433966666666,0.66666666666666663,1,0
+192.168.10.250:8888 / referral,0,1,0,0,1,0,0
+dealspotr.com / referral,0,1,1,526.393674,0,1,0
+djlightingdiscount.com / referral,0,1,0,0.097096,1,0,0
+external_site / web,0,2,1,166.0784625,0,2,0
+fonipeiraioton.gr / referral,0,1,1,1096.5534,0,1,0
+in.search.yahoo.com / referral,0,5,0.6,1045.1716576000001,0.4,3,0
+mmd24-26.isme-35-edu.net / referral,0,2,0.5,9.1164685,0.5,1,0
+plugin / wordpress,0,1,1,66.825611,0,1,0
+rankmath / clb,0,1,1,448.587992,0,1,0
+readme / wordpress,0,1,0,4.198747,1,0,0
+sputnik / email,0,1,1,1387.974481,0,1,0
+wordpress.org / referral,0,1,1,4996.972753,0,1,0
+worldpressit.com / referral,0,1,1,128.276789,0,1,0

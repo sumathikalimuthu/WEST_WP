@@ -1,0 +1,53 @@
+version: "3.9"
+
+services:
+  redis:
+    image: redis:7
+    ports:
+      - "6379:6379"
+
+  # --- CELERY_APP (SEO REPORTS) ---
+  celery_app_worker:
+    build: .
+    volumes:
+      - .:/app   # bind mount current folder
+    environment:
+      - BROKER_URL=redis://redis:6379/0
+      - TASK_SCHEDULE=*/10
+    command: python -m celery -A celery_app worker --loglevel=info --pool=solo --autoreload
+    depends_on:
+      - redis
+
+  celery_app_beat:
+    build: .
+    volumes:
+      - .:/app
+    environment:
+      - BROKER_URL=redis://redis:6379/0
+      - TASK_SCHEDULE=*/10
+    command: celery -A celery_app beat -l info --autoreload
+    depends_on:
+      - redis
+
+  # --- CELERY_PDF_APP (PDF REPORTS) ---
+  celery_pdf_worker:
+    build: .
+    volumes:
+      - .:/app
+    environment:
+      - BROKER_URL=redis://redis:6379/0
+      - TASK_SCHEDULE=*/15
+    command: python -m celery -A celery_pdf_app.celery_pdf_app worker -Q seo_pdf_reports -l info --concurrency=1 --pool=solo --autoreload
+    depends_on:
+      - redis
+
+  celery_pdf_beat:
+    build: .
+    volumes:
+      - .:/app
+    environment:
+      - BROKER_URL=redis://redis:6379/0
+      - TASK_SCHEDULE=*/15
+    command: celery -A celery_pdf_app.celery_pdf_app beat -l info --autoreload
+    depends_on:
+      - redis

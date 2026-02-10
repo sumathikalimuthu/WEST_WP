@@ -1,0 +1,20 @@
+Page https://www.smackcoders.com/blog/add-external-urls-to-featured-images-wordpress.html → 38330 impressions, 65 clicks, CTR 0.00%, Avg position 5.7. Issues: LCP, Poor
+Page https://www.smackcoders.com/blog/export-import-advanced-custom-fields-csv-wordpress.html → 13044 impressions, 36 clicks, CTR 0.00%, Avg position 8.9. Issues: No critical errors
+Page https://www.smackcoders.com/blog/how-to-import-csv-file-in-wordpress-without-plugin.html → 6622 impressions, 35 clicks, CTR 0.00%, Avg position 9.5. Issues: LCP, Poor
+Page https://www.smackcoders.com/ja/blog/add-external-urls-to-featured-images-wordpress.html → 6608 impressions, 161 clicks, CTR 0.01%, Avg position 6.0. Issues: Poor, LCP
+Page https://www.smackcoders.com/blog/wordpress-ultimate-csv-importer-csv-sample-files-and-updates.html → 6525 impressions, 105 clicks, CTR 0.00%, Avg position 9.4. Issues: LCP, Poor
+Page https://www.smackcoders.com/blog/enable-configure-wp-cron.html → 6270 impressions, 30 clicks, CTR 0.00%, Avg position 8.8. Issues: LCP, Poor
+Page https://www.smackcoders.com/blog/how-to-restore-wordpress-site-from-backup.html → 4850 impressions, 15 clicks, CTR 0.00%, Avg position 14.0. Issues: Poor, LCP
+Page https://www.smackcoders.com/blog/export-import-single-wordpress-post-page-product.html → 4720 impressions, 30 clicks, CTR 0.00%, Avg position 11.0. Issues: Poor, LCP
+Page https://www.smackcoders.com/blog/wordpress-seo-plugins.html → 4403 impressions, 0 clicks, CTR 0.00%, Avg position 76.8. Issues: High, LCP, Poor, but, clicks, impressions, no, |
+Page https://www.smackcoders.com/blog/how-to-import-page-to-wordpress.html → 4344 impressions, 12 clicks, CTR 0.00%, Avg position 8.3. Issues: LCP, Poor
+Page https://www.smackcoders.com/blog/how-to-export-wordpress-users.html → 4291 impressions, 14 clicks, CTR 0.00%, Avg position 10.4. Issues: Poor, LCP
+Page https://www.smackcoders.com/blog/speed-up-your-wordpress-website.html → 3760 impressions, 0 clicks, CTR 0.00%, Avg position 12.0. Issues: LCP, Poor
+Page https://www.smackcoders.com/blog/best-woocommerce-affiliate-plugins.html → 3368 impressions, 0 clicks, CTR 0.00%, Avg position 15.7. Issues: LCP, Poor
+Page https://www.smackcoders.com/es/blog/como-instalar-wamp-y-xampp.html → 3225 impressions, 10 clicks, CTR 0.00%, Avg position 4.5. Issues: LCP, Poor
+Page https://www.smackcoders.com/documentation/wp-ultimate-csv-importer-pro/acf-import → 3190 impressions, 30 clicks, CTR 0.00%, Avg position 8.6. Issues: LCP, Poor
+Page https://www.smackcoders.com/blog/import-export-gravity-forms-entries.html → 3048 impressions, 6 clicks, CTR 0.00%, Avg position 12.7. Issues: Poor, LCP
+Page https://www.smackcoders.com/blog/best-wordpress-speed-optimization-plugins.html → 3048 impressions, 0 clicks, CTR 0.00%, Avg position 19.8. Issues: LCP, Poor
+Page https://www.smackcoders.com/blog/create-and-import-custom-post-types-in-wordpress.html → 2544 impressions, 12 clicks, CTR 0.00%, Avg position 10.7. Issues: LCP, Poor
+Page https://www.smackcoders.com/blog/mastering-wpml-language-localization.html → 2224 impressions, 4 clicks, CTR 0.00%, Avg position 10.1. Issues: LCP, Poor
+Page https://www.smackcoders.com/ja/blog/how-to-import-csv-file-in-wordpress.html → 2166 impressions, 30 clicks, CTR 0.01%, Avg position 8.6. Issues: LCP, Poor

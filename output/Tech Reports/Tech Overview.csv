@@ -1,0 +1,101 @@
+Table: Platform
+platform,activeUsers
+web,373
+
+Table: Operating system
+operatingSystem,activeUsers
+Windows,257
+Macintosh,57
+Android,22
+iOS,19
+Linux,18
+,1
+Chrome OS,1
+
+Table: Platform / device category
+platformDeviceCategory,activeUsers
+web / desktop,334
+web / mobile,40
+web / tablet,1
+
+Table: Browser
+browser,activeUsers
+Chrome,323
+Safari,23
+Firefox,14
+Edge,9
+Opera,3
+(not set),1
+Android Webview,1
+
+Table: Device category
+deviceCategory,activeUsers
+desktop,334
+mobile,40
+tablet,1
+
+Table: Screen resolution
+screenResolution,activeUsers
+1280x1200,79
+1600x1600,53
+1920x1080,50
+1536x864,31
+1366x768,18
+1280x720,17
+2560x1440,14
+1440x900,11
+375x667,10
+800x600,7
+1470x956,5
+3440x1440,5
+3840x2160,5
+1280x800,4
+1512x982,4
+1728x1117,4
+1600x900,3
+393x852,3
+430x932,3
+900x600,3
+1680x1050,2
+1707x1067,2
+1920x1200,2
+3008x1692,2
+385x854,2
+1280x1024,1
+1360x768,1
+1376x774,1
+1466x825,1
+1536x960,1
+1600x1200,1
+1710x1107,1
+1792x1120,1
+1800x1169,1
+1920x1243,1
+1920x890,1
+2048x1152,1
+2056x1329,1
+2181x913,1
+2240x1260,1
+2752x1152,1
+3200x2134,1
+320x480,1
+3360x1890,1
+347x772,1
+360x740,1
+360x760,1
+360x804,1
+384x832,1
+384x854,1
+390x844,1
+393x851,1
+393x873,1
+393x876,1
+411x823,1
+412x732,1
+412x906,1
+412x915,1
+440x956,1
+491x1098,1
+511x1136,1
+5120x1440,1
+

@@ -1,0 +1,22 @@
+Event name,Event count,Total users,Total revenue,Event count per active user
+page_view,881,378,0,2.3306878306878307
+scroll_depth,863,133,0,6.488721804511278
+user_engagement,586,193,0,3.0362694300518136
+session_start,476,388,0,1.2268041237113403
+first_visit,326,326,0,1.0
+add_to_cart,62,62,0,1.0
+begin_checkout,60,50,0,1.2
+checkout,10,6,0,1.6666666666666667
+csv_sales_funnel,10,6,0,1.6666666666666667
+view_item_list,6,2,0,3.0
+click,5,5,0,1.0
+remove_from_cart,4,4,0,1.0
+all_checkout,2,2,0,1.0
+all_sales,2,2,0,1.0
+csv_sales_all,2,2,0,1.0
+ga4_google_calendar_sales_funnel,2,2,0,1.0
+lead_capture_sales_funnel,2,2,0,1.0
+leads_builder_sales,2,2,0,1.0
+purchase,2,2,238.2,1.0
+vt_mc_sales,2,2,0,1.0
+vtiger_mailchimp_sales_funnel,2,2,0,1.0

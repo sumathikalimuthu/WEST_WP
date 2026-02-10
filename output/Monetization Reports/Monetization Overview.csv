@@ -1,0 +1,37 @@
+Table: Nth day - Total revenue
+nthDay,totalRevenue
+0000,238.2
+
+Table: Nth day - Purchase revenue
+nthDay,purchaseRevenue
+0000,238.2
+
+Table: Nth day - Total ad revenue
+No data
+
+Table: Nth day - Total purchasers
+nthDay,totalPurchasers
+0000,2
+
+Table: Nth day - First time purchasers
+nthDay,firstTimePurchasers
+0000,2
+
+Table: Nth day - Average purchase revenue per paying user
+nthDay,averagePurchaseRevenuePerPayingUser
+0000,119.1
+
+Table: Item name - Items purchased
+itemName,itemPurchaseQuantity
+W2S Sync Pro,1
+WP Ultimate CSV Importer &#8211; Custom Fields Import,1
+
+Table: Order coupon - Items purchased
+orderCoupon,itemPurchaseQuantity
+,1
+newuser20off,1
+
+Table: Item list name - Items purchased
+itemListName,itemPurchaseQuantity
+(not set),2
+
